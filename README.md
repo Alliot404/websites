@@ -4,6 +4,6 @@
 ### school-website:
 
 - This folder contains the website which i have developed for a [private school](https://newexpertpublicschool.com/).
-- This is a tatic website
-- HTML, CSS, Java-script and Bootsrap for UI
+- This is a simple static website
+- HTML, CSS, Java-script and Bootsrap for UI are used
 
