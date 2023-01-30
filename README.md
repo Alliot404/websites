@@ -3,7 +3,7 @@
 
 ### school-website:
 
-- This folder contains the website which i have developed for a [private school](https://newexpertpublicschool.com/).
+- This folder contains the website which i have developed for a [private school](https://newexpertpublicschool.com/){:target="_blank"}.
 - This is a simple static website
 - HTML, CSS, Java-script and Bootsrap for UI are used
 
